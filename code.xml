@@ -57,4 +57,13 @@
         android:textColor="#039BE5"
         android:fontFamily="cursive"
         />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/pr3"
+        android:scaleType="centerCrop"
+        android:id="@+id/image_pr3"
+        android:layout_below="@id/udacity_textView4"
+        android:layout_centerHorizontal="true"
 </RelativeLayout>
